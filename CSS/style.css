@@ -1,6 +1,9 @@
 /* CSS Document */
 
 
+
 body {
+    font-family: "Gill Sans";
+    color: darkorchid;
     background-color: darkorange;
 }
