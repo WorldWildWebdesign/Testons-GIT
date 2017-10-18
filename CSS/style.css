@@ -1,9 +1,13 @@
 /* CSS Document */
 
 
+<<<<<<< HEAD
+body {
+=======
 
 body {
     font-family: "Gill Sans";
     color: darkorchid;
+>>>>>>> aeb677d8afc4f11309266a95f18c6b35d0a2ecb9
     background-color: darkorange;
 }
